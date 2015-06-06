@@ -33,5 +33,6 @@ destroy(message)
 end on
 
 event open;messagebox("","hi")
+//edit_1
 end event
 
