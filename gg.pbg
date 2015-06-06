@@ -3,5 +3,6 @@ Save Format v3.0(19990112)
  "gg.pbl" "";
 @end;
 @begin Objects
+ "win_1.srw" "gg.pbl";
  "gg.sra" "gg.pbl";
 @end;
