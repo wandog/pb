@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "gg.pbl" "";
+@end;
+@begin Objects
+ "gg.sra" "gg.pbl";
+@end;
